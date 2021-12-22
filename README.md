@@ -14,7 +14,7 @@
   </p>
   
   <p align="center">  
-  👁 You can see my portfolio here: https://amorenogo.netlify.app/
+    You can see my portfolio here: https://amorenogo.netlify.app/
   </p>
   
   
